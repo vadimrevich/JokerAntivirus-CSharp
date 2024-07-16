@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "JokerAntivirus_3.5_x86", "JokerAntivirus\bin\Debug\JokerAntivirus_3.5_x86.exe", "{A0EB6A73-004E-4CD6-A726-943E568B8422}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\user\Documents\Visual Studio 2010\Projects\JokerAntivirus_x32\DotNet3.5_Example\JokerAntivirus\JokerAntivirus\bin\Debug\JokerAntivirus_3.5_x86.exe
+		RemoteMachine = W7-VM
+		StartingDirectory = C:\Users\user\Documents\Visual Studio 2010\Projects\JokerAntivirus_x32\DotNet3.5_Example\JokerAntivirus\JokerAntivirus\bin\Debug
+		Environment = По умолчанию
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0EB6A73-004E-4CD6-A726-943E568B8422}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
